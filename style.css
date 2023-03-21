@@ -1,0 +1,33 @@
+:root{
+    padding: 0;
+    margin: 0;
+}
+.search-box{
+    width: 35px;
+    height: 35px;
+    background-color: red;
+    border-radius: 50%;
+}
+.location-icon{
+    font-size: 30px;
+}
+.search-area{
+    outline: none;
+}
+.info-box{
+    background: linear-gradient(to top, #73caf6 0%, #9ac5fc 100%);
+}
+.img-box{
+    width: 150px;
+    height: 150px;
+}
+/* .img-box img{
+    height: 100%;
+} */
+.humidity{
+    height: 40px;
+    width: 40px;
+}
+.wind{
+    padding-top: 5px;
+}
